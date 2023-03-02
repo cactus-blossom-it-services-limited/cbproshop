@@ -1,4 +1,3 @@
-import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
 const Footer = () => {
@@ -9,7 +8,6 @@ const Footer = () => {
           <Col className="text-center py-3">Copyright &copy; CBProShop</Col>
         </Row>
       </Container>
-      footer
     </footer>
   );
 };
